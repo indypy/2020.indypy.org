@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://2020.indypy.com/"
+  from = "/"
   to = "https://indypy.org/"
   status = 301
   force = true
