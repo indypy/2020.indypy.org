@@ -1,10 +1,10 @@
 [[redirects]]
+  from = "https://2020.indypy.com/"
+  to = "https://indypy.org/"
+  status = 301
+  force = true
+[[redirects]]
   from = "/webconf/*"
   to = "https://indypy.sixfeetup.com/VirtualHostBase/https/2020.indypy.org:443/IndyPy/VirtualHostRoot/_vh_webconf/:splat"
   status = 200
-  force = true
-[[redirects]]
-  from = "https://2020.indypy.com/*"
-  to = "https://indypy.org/:splat"
-  status = 301
   force = true
