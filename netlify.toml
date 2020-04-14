@@ -5,6 +5,6 @@
   force = true
 [[redirects]]
   from = "/webconf/*"
-  to = "https://indypy.sixfeetup.com/VirtualHostBase/https/2020.indypy.org:443/IndyPy/VirtualHostRoot/_vh_webconf/:splat"
+  to = "https://2020.pythonwebconf.com/:splat"
   status = 200
   force = true
