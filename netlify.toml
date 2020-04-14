@@ -6,5 +6,5 @@
 [[redirects]]
   from = "/webconf/*"
   to = "https://2020.pythonwebconf.com/:splat"
-  status = 200
+  status = 301
   force = true
